@@ -1,0 +1,2 @@
+WebサーバーはNodejs TypeScriptで構築
+APIも同様、Herokuへデプロイすることを目指す。
